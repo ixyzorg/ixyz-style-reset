@@ -1,0 +1,8 @@
+{
+  "name": "@ixyz/style-reset",
+  "version": "1.0.0",
+  "keywords": ["reset.scss","reset.css"],
+  "author": "ixyz",
+  "license": "ISC",
+  "description": "css样式重置"
+}
